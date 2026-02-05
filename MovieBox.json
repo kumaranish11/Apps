@@ -2,7 +2,7 @@
   "showAnnouncement": false,
   "announcementText": "⚠ New V2 Update Available!",
 
-  "showContactButton": false,
+  "showContactButton": true,
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "https://t.me/dp_mods",
 
