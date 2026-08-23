@@ -3,7 +3,7 @@ import requests
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Yahan apne "Master Bot" ka token dalein (Jisse aap command denge)
-MASTER_TOKEN = "8789051646:AAFMFqvAgOgsKaPlJxHcIfLhuBT6vMu1fA8"
+MASTER_TOKEN = "8631991712:AAEuNPGYNC_MB8KW6IKC4HqZD15GvjFl3cU"
 bot = telebot.TeleBot(MASTER_TOKEN)
 
 # User ka data save karne ke liye
