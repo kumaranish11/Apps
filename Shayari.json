@@ -1,8 +1,27 @@
 [
   {
-    "text": "shayari lines here...(in base64 encode)",
-    "author": "Author Name",
+    "text": "VGVyZSBqYWFuZSBrZSBiYWFkIGJoaSwKc2FhbnMgY2hhbHRpIHJhaGkgYmV3YWphaCwKeWVoIGFsYWcgYmFhdCBoYWkga2UKemluZGFnaSB0aGVoYXIgZ2F5aSB0aGku",
+    "author": "Anish Kumar",
     "tags": ["sad", "heartbroken"]
   },
-  ...
+  {
+    "text": "RG9zdGkgd29oIGNoaXJhYWcgaGFpLApqbyBhbmRoZXJvbiBtZWluIGJoaQpyYXN0YSBkaWtoYXRhIGhhaSwKYmluYSBrdWNoIGthaGUu",
+    "author": "Anish Kumar",
+    "tags": ["friends"]
+  },
+  {
+    "text": "TXVza3VyYWhhdCBrZSBwZWVjaGUKa2l0bmUgdG9vZmFuIGNoaHVwZSBoYWluLAp5ZWggc2lyZiB3b2ggamFhbmUKam8ga2h1ZCBzZSBsYWQgcmFoYSBoYWku",
+    "author": "Anish Kumar",
+    "tags": ["sad"]
+  },
+  {
+    "text": "V2FxdCBzYWJzZSBiYWRhIHVzdGFhZCBoYWksCnNpa2hhIGRldGEgaGFpIHdvaCBzYWJhawpqbyBraXRhYm9uIG1laW4gbmFoaSBtaWx0YS4=",
+    "author": "Anish Kumar",
+    "tags": ["life"]
+  },
+  {
+    "text": "VXNrZSBqYWFuZSBrZSBiYWFkCmdoYXIgdG8gd2FoaSByYWhhLApiYXMgaGFyIGtvbmUgbWVpbgpraGFtb3NoaSBiYWl0aCBnYXlpLg==",
+    "author": "Anish Kumar",
+    "tags": ["heartbroken", "sad"]
+  }
 ]
